@@ -5,6 +5,7 @@ add_executable(tests tests.cpp)
 add_executable(KleinsterTeilerAufg1_2 KleinsterTeilerAufg1_2.cpp)
 add_executable(KleinsterTeilerAufg1_3Faster KleinsterTeilerAufg1_3Faster.cpp)
 add_executable(fract fract.cpp)
+add_executable(HelloHello1.cpp HelloHello1)
 
 
 # Kommentieren Sie die folgenden Zeilen fuer die Aufgabe `mile_to_kilometer` aus
